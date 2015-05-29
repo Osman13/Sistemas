@@ -296,6 +296,3 @@ public class PPoTVisual extends javax.swing.JFrame {
     private javax.swing.JLabel lbl_tijera2;
     // End of variables declaration                   
 }
-
-
-
